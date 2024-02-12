@@ -99,7 +99,21 @@
       "gambar": "lontong-opor-ayam.jpg"
     }
   ],
-  "keranjangs": [ ],
+  "keranjangs": [
+     {
+      "id": "adfe",
+      "jumlah_pesan": "4",
+      "keterangan": "vtgv",
+      "products": {
+        "id": 1,
+        "kode": "K-01",
+        "nama": "Sate Ayam",
+        "harga": 16000,
+        "is_ready": true,
+        "gambar": "sate-ayam.jpg"
+      }
+    }
+  ],
   "pesanans": [
     {
       "nama": "Afif",
